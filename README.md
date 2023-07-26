@@ -47,6 +47,17 @@ Mechanical Engineer with the experience and technical expertise to provide the h
 
 ![Geometry](https://github.com/AnanthanAnil/Ansys/assets/140429339/fa5c2ab2-6aa7-4a75-84d1-ebc9ea67f7bf)
 
+
+
+
+
+
+
+## Results
+
+
+![Velocity and pressure](https://github.com/AnanthanAnil/Ansys/assets/140429339/23dff855-ee13-43fd-8aa1-0a1bd14e96f7)
+
 ## References
 
 1. Cutnell, John & Johnson, Kenneth. Physics, Fourth Edition. Wiley, 1998: 308.
@@ -57,12 +68,3 @@ Conference 2009 Boston 2009.
 pulsatile blood flow in a bifurcating artery using a grid-free method. Fifth International 
 Conference on CFD in the Process Industries CSIRO, Melbourne, Australia 2006
 4. "Transport Phenomena in Biological Systems" by Truskey, Yuan, and Katz.
-
-
-
-
-
-## Results
-
-
-![Velocity and pressure](https://github.com/AnanthanAnil/Ansys/assets/140429339/23dff855-ee13-43fd-8aa1-0a1bd14e96f7)
