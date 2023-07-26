@@ -47,6 +47,17 @@ Mechanical Engineer with the experience and technical expertise to provide the h
 
 ![Geometry](https://github.com/AnanthanAnil/Ansys/assets/140429339/fa5c2ab2-6aa7-4a75-84d1-ebc9ea67f7bf)
 
+## References
+
+1. Cutnell, John & Johnson, Kenneth. Physics, Fourth Edition. Wiley, 1998: 308.
+2. Siebert, Mark W. & Fodor, Petru S. Newtonian and Non-Newtonian Blood Flow over a 
+Backward- Facing Step – A Case Study. Excerpt from the Proceedings of the COMSOL 
+Conference 2009 Boston 2009.
+3. SINNOTT, Matthew. CLEARY, Paul W. & PRAKASH, Mahesh. An investigation of 
+pulsatile blood flow in a bifurcating artery using a grid-free method. Fifth International 
+Conference on CFD in the Process Industries CSIRO, Melbourne, Australia 2006
+4. "Transport Phenomena in Biological Systems" by Truskey, Yuan, and Katz.
+
 
 
 
